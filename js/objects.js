@@ -1,3 +1,5 @@
+
+console.log('****************OBJECTS****************');
 let userData = {
     name: "John",
     age: 30,
@@ -26,3 +28,6 @@ console.log(userData.contact);
 console.log(userData.contact.phone);
 console.log(userData.cars);
 console.log(userData.cars[1]);
+
+console.log('xxxxxxxxxOBJECTSxxxxxxxxxxxxx');
+
